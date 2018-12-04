@@ -1,2 +1,3 @@
 # sample-spring-api
-### Demo Jenkinsfile vs Dockerfile
+Auto CI with Jenkinsfile & Dockerfile
+
